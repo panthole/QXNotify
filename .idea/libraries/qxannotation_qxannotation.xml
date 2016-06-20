@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="qxannotation.qxannotation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/qxannotation/build/libs/qxannotation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
